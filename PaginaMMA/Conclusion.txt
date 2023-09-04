@@ -1,0 +1,5 @@
+En conclusión al realizar esta página nos dimos cuenta de cómo es que se 
+ve una página creada en html con funcionalidades básicas e hipervínculos 
+y cómo varía el tamaño de las imágenes si es que no se adecuan antes 
+para que luzcan mejor en la interfaz también observamos los diferentes 
+tamaños de letras y cómo funcionan las listas en este lenguaje de hipertexto
